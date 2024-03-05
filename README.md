@@ -1,5 +1,5 @@
 
-###  DATE:4/3/2024 
+###  DATE:05/03/2024 
 
 ###  NAME: PRASANA V
 ###  ROLL NO :212223040150
@@ -53,7 +53,7 @@ configure in the usart 2 as asynchronous mode and set the baud rate as 115200 as
 #endif
  while (1)
   {
-	  printf("Tom francies xaviour\n23007644\n");
+	  printf("SAVEETHA ENGINEERING COLLEGE \nPRASANA V \n 212223040150");
 	  HAL_Delay(500);   
   }
 }
